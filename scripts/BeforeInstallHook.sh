@@ -1,4 +1,4 @@
 #!/bin/bash
-set -e
-yum update -y
-pm2 update
+sudo set -e
+sudo yum update -y
+sudo pm2 update
